@@ -20,7 +20,7 @@ char hexaKeys[ROWS][COLS] = {
   {'7', '8', '9', 'C'},
   {'*', '0', '#', 'D'}
 };
-
+//CHANGES!!!!!!!!
 const byte start_pause_button = 16;          //16                    //starts and pauses action of syringe pump
 const byte reset_button = 14;             //14                       //reset all values to 0;
 const byte set_button = 15;              //15                       //set values for each portion of titration cycle
